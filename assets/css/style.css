@@ -100,7 +100,13 @@ p {
 }
 
 
-.benefits img {
+.benefit-lead img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+.benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -131,20 +137,12 @@ p {
     max-height: 200px;
 }
 
-.search-engine-optimization h2,  {
+div .search-engine-optimization h2,  {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
 .footer {
     padding: 30px;
